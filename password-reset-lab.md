@@ -23,3 +23,17 @@ Successfully reset the password and verified the user could authenticate.
 - Password Resets
 - User Account Management
 - Troubleshooting
+
+## Screenshots
+
+### Opening Active Directory Users and Computers
+
+![AD Tools](01-user-account.png.png)
+
+### User Account Located
+
+![User Account](02-userjohnsmith.png.png)
+
+### Password Reset Process
+
+![Password Reset](03-password-reset.png.png)
