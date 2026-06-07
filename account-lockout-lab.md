@@ -18,8 +18,6 @@ Demonstrate how to identify, troubleshoot, and unlock a locked Active Directory 
 
 ## Screenshots
 
-### 01 - Account Lockout Policy
-![Lockout Policy](01-lockout-policy.png)
+![Lockout Policy](01-lockout-policy.png.png)
 
-### 02 - Account Locked
-![Account Locked](02-account-locked.png)
+![Account Locked](02-account-locked.png.png)
