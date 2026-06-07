@@ -1,0 +1,19 @@
+# Active Directory Account Lockout & Unlock Lab
+
+## Objective
+Demonstrate how to identify, troubleshoot, and unlock a locked Active Directory user account.
+
+## Tools Used
+- Windows Server 2022
+- Active Directory Users and Computers
+- Group Policy Management
+- Windows 10 Client VM
+
+## Steps Performed
+1. Configured Account Lockout Policy
+2. Triggered account lockout through failed logon attempts
+3. Verified locked status in ADUC
+4. Unlocked the account
+5. Confirmed successful login
+
+## Screenshots
